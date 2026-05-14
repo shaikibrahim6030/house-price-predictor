@@ -77,5 +77,4 @@ jobs:
           kubectl get pods
           echo -e "\n--- Service Status ---"
           kubectl get service
-          minikube dashboard --url
     
